@@ -75,3 +75,18 @@ Built in the notebook:
 - 📌 Used `train_test_split`, `accuracy_score`, `classification_report`
 
 ---
+
+
+## 🚀 How to Run
+
+### 📓 Jupyter Notebook
+1. Clone the repo
+2. Install dependencies: `pip install pandas matplotlib seaborn scikit-learn`
+3. Open `Uber_DA.ipynb` in Jupyter Notebook
+4. Run all cells
+
+### 📊 Power BI Dashboard
+1. Open `Uber_PowerBi_Dashboard.pbix` in Power BI Desktop
+2. Interact using filters and slicers to explore insights
+
+---
