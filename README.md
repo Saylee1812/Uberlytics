@@ -81,7 +81,7 @@ Built in the notebook:
 
 ### 📓 Jupyter Notebook
 1. Clone the repo
-2. Install dependencies: `pip install pandas matplotlib seaborn scikit-learn`
+2. Install dependencies: `pip install -r requirements.txt`
 3. Open `Uber_DA.ipynb` in Jupyter Notebook
 4. Run all cells
 
