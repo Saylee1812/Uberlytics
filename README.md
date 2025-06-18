@@ -1,9 +1,6 @@
-# 🚗 Uberlytics
-An end-to-end analysis and interactive dashboard on Uber trip data using Python and Power BI.
-
+# 🚗 Uberlytics - An end-to-end analysis and interactive dashboard on Uber trip data using Python and Power BI.
 
 This project presents a complete data analysis workflow on Uber ride data using **Python (Jupyter Notebook)** and a fully interactive **Power BI dashboard**.
-
 It combines exploratory data analysis (EDA), machine learning classification, and dashboard creation to uncover insights into trip patterns, usage behavior, and trip purposes.
 
 ---
